@@ -27,6 +27,9 @@ https://github.com/f/awesome-chatgpt-prompts - Awesome ChatGPT Prompts
 
 https://dreambooth.github.io/ - Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation
 
+http://Dreamstudio.ai
+
+
 # System Design / Architecture
 
 https://github.com/DovAmir/awesome-design-patterns
