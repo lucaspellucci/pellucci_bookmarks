@@ -29,6 +29,7 @@ https://dreambooth.github.io/ - Fine Tuning Text-to-Image Diffusion Models for S
 
 http://Dreamstudio.ai
 
+https://replicate.com/ - Run open-source machine learning models with a cloud API
 
 # System Design / Architecture
 
