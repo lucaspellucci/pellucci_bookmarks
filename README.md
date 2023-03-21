@@ -35,6 +35,12 @@ https://replicate.com/ - Run open-source machine learning models with a cloud AP
 
 https://github.com/DovAmir/awesome-design-patterns
 
+# Form / pages / No Code
+
+https://try.typeform.com - Easy, stylish forms that make data collection a walk in the park
+
+https://carrd.co/ - Simple, free, fully responsive one-page sites for pretty much anything.
+
 # API's
 
 https://github.com/toddmotto/public-apis
