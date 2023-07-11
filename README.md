@@ -31,6 +31,11 @@ http://Dreamstudio.ai
 
 https://replicate.com/ - Run open-source machine learning models with a cloud API
 
+https://github.com/Significant-Gravitas/Auto-GPT
+
+https://github.com/smol-ai/developer
+
+
 # System Design / Architecture
 
 https://github.com/DovAmir/awesome-design-patterns
