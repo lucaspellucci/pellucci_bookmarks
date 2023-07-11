@@ -13,7 +13,7 @@ https://ossinsight.io/collections
 
 
 https://textual.textualize.io/ - framework for building applications that run within your terminal. Text User Interfaces (TUIs).
-s
+
 https://streamlit.io/ - turns data scripts into shareable web apps.
 
 
