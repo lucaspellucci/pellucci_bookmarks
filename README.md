@@ -35,6 +35,9 @@ https://github.com/Significant-Gravitas/Auto-GPT
 
 https://github.com/smol-ai/developer
 
+http://illuminate.google.com - PDF to Audio
+
+https://notebooklm.google.com - AI powered notebooks with support for custom sources
 
 # System Design / Architecture
 
