@@ -39,6 +39,8 @@ http://illuminate.google.com - PDF to Audio
 
 https://notebooklm.google.com - AI powered notebooks with support for custom sources
 
+https://bolt.new/ - AI - no-code app creation
+
 # System Design / Architecture
 
 https://github.com/DovAmir/awesome-design-patterns
